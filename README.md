@@ -1,0 +1,2 @@
+# typescript
+just testing typescript
